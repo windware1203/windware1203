@@ -1,7 +1,7 @@
 # 武田奈々
 ## Communities
 <p>
-      <a href="https://sitcon.org/"><img height=50>SITCON</a>
+      <a href="https://sitcon.org/"><img height=50> SITCON </a>
 </p>
 
 # Github Stats
