@@ -4,7 +4,7 @@
       <link rel="preconnect" href="https://fonts.gstatic.com">
    </head>
    <body>
-      <span style="font-family: 'Yusei Magic', sans-serif;">Nana Takeda</span>
+      Nana Takeda
       <hr align="left" color="#F98948" width="10%">
       Communit
       <hr align="left" color="#F98948" width="10%">
@@ -21,4 +21,5 @@ Github Stats
 
 
 [![Takeda's github stats](https://github-readme-stats.vercel.app/api?username=windware1203&show_icons=true&theme=calm)](https://github.com/windware1203/github-readme-stats)
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windware1203&layout=compact&theme=calm)](https://github.com/windware1203/github-readme-stats)
