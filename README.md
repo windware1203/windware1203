@@ -4,7 +4,7 @@
       <link rel="preconnect" href="https://fonts.gstatic.com">
    </head>
    <body>
-      <span style="font-family: 'Yusei Magic', sans-serif;">武田奈々</span>
+      <span style="font-family: 'Yusei Magic', sans-serif;">Nana Takeda</span>
       <hr align="left" color="#F98948" width="10%">
       Communit
       <hr align="left" color="#F98948" width="10%">
