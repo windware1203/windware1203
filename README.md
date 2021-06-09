@@ -14,8 +14,11 @@
    </ul>
       <br>
 Github Stats
+      
 <hr align="left" color="#F98948" width="10%">
+       </body>
+</html>
+
+
 [![Takeda's github stats](https://github-readme-stats.vercel.app/api?username=windware1203&show_icons=true&theme=calm)](https://github.com/windware1203/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windware1203&layout=compact&theme=calm)](https://github.com/windware1203/github-readme-stats)
-   </body>
-</html>
