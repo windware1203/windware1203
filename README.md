@@ -6,7 +6,8 @@
    <body>
       Nana Takeda
       <hr align="left" color="#F98948" width="10%">
-      Communit
+      
+      Community
       <hr align="left" color="#F98948" width="10%">
    <ul>
       <li><a href="https://sitcon.org/" alink="green"><img height=50> SITCON </a></li>
