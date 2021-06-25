@@ -2,7 +2,8 @@
 ## Info.
 - Name: Cheng-Hao,Zhang
 - Major: Computer Science, Information Security
-  -  Java, C/Cpp
+  -  Java
+  -  C/Cpp
 - Minor: Criminal Code, Law
 
 ## Community
