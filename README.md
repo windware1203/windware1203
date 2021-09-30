@@ -6,7 +6,7 @@
   -  C/Cpp
 - Minor: Criminal Code, Law
 ## Links
-- <a href=https://www.youtube.com/c/tw-takedanana><img src="img/youtube.png" width="60" height="60"></a>
+<a href=https://www.youtube.com/c/tw-takedanana><img src="youtube.png" width="60" height="60"></a>
 
 ## Community
 - SITCOM
