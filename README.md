@@ -6,7 +6,7 @@
   -  C/Cpp
 - Minor: Criminal Code, Law
 ## Links
-- ![my YT](youtube.png)
+- ![my YT](youtube.png =60)
 
 ## Community
 - SITCOM
