@@ -6,8 +6,10 @@
   -  C/Cpp
 - Minor: Criminal Code, Law
 ## Links
-<a href=https://www.youtube.com/c/tw-takedanana><img src="youtube.png" width="60" height="60"></a>
-<a href=https://windware1203.github.io/takeda.github.io/></a>
+<a href=https://www.youtube.com/c/tw-takedanana><img src="youtube.png" width="60" height="60"></a><br>
+
+### My Website
+<a href=https://windware1203.github.io/takeda.github.io/><img src="account.png" width="60" height="60"></a>
 
 ## Community
 - SITCOM
