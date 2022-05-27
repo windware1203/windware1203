@@ -1,7 +1,7 @@
 # Takeda Nana's GitHub
 ## Info.
 - Name: Cheng-Hao,Zhang
-- Major: Computer Science, Information Security
+- Major: Computer Science, System Programming, Information Security
   -  C/Cpp
   -  Java
 
