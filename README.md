@@ -1,10 +1,12 @@
-# Takeda Nana's GitHub
+
 ## Info.
+- 武田奈々(Takeda Nana)
 - Name: Cheng-Hao,Zhang
 - Major: Computer Science, Information Security
   -  Java
   -  C/Cpp
 - Minor: Criminal Code, Law
+- a Student forever
 ## Links
 <a href=https://www.youtube.com/c/tw-takedanana><img src="youtube.png" width="60" height="60"></a>
 
