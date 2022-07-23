@@ -6,7 +6,7 @@
   -  Java
   -  C/Cpp
 - Minor: Criminal Code, Law
-- a Student forever
+- A Student Forever
 ## Links
 <a href=https://www.youtube.com/c/tw-takedanana><img src="youtube.png" width="60" height="60"></a>
 
