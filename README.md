@@ -18,7 +18,7 @@
 ## Language Ranking
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windware1203&layout=compact&theme=calm)](https://github.com/windware1203/github-readme-stats)
 
-<div align="center"> 
+<div align="center" style="margin-top: 50%;margin-bottom: 50%;"> 
     <img width=30% src="ChengHao.png">
 </div> 
 
