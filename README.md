@@ -1,6 +1,6 @@
-
-## Info.
-- Hi! This is 武田奈々 (Takeda Nana)
+<h3>Hi! This is 武田奈々 (Takeda Nana)</h3>
+<h3> Info.</h3>
+- 
 - Name: Cheng-Hao,Zhang
 - Major: Computer Science, Information Security
   -  Java
