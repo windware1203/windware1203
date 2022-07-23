@@ -3,8 +3,9 @@
 
 - Name: Cheng-Hao,Zhang
 - Major: Computer Science, Information Security, System Software
-  -  C/Cpp
-  -  Java
+  -  <img src="https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/C__.png">
+  <img src="https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/C.png">
+  - <img src="https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Java.png">
 - Minor: Criminal Code, Law
 - A Student Forever
 ## Links
