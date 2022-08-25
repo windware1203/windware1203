@@ -7,6 +7,8 @@
   -  <img src="https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/C__.png">&emsp; <img src="https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/C.png">
   - <img src="https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Java.png">
 - Minor: Criminal Code, Law
+  - <img src="https://user-images.githubusercontent.com/40207168/186717276-ea50d309-1bbb-46cd-864f-e87b549550e3.jpg" width=15%>
+
 - A Student Forever
 ## Links
 <a href=https://www.youtube.com/c/tw-takedanana><img src="youtube.png" width="60" height="60"></a>
