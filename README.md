@@ -1,14 +1,9 @@
 # Hi! This is 武田奈々 (Takeda Nana)
 
 ## About Me
-
 - Name: Cheng-Hao,Zhang
-- Major: Computer Science, Information Security, System Software
-  -  <img src="https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/C__.png">&emsp; <img src="https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/C.png">
-  - <img src="https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Java.png">
-
-
 - A Student Forever
+- 
 ## Links
 <a href=https://www.youtube.com/c/tw-takedanana><img src="youtube.png" width="60" height="60"></a>
 
@@ -16,6 +11,7 @@
 - [SITCOM](https://sitcon.org/2022/)
 - [HITCON](https://hitcon.org/2022/)
 
+---
 
               
 <br><br><br><br><br>
