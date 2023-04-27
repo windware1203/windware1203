@@ -1,4 +1,4 @@
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <h3>Hi! This is 武田奈々 (Takeda Nana)</h3>
 <h3> About Me</h3>
 
@@ -19,7 +19,8 @@
 
 ## Language Ranking
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windware1203&layout=compact&theme=calm)](https://github.com/windware1203/github-readme-stats)
-
+<div class="badge-base LI-profile-badge" data-locale="zh_TW" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="takedahao" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tw.linkedin.com/in/takedahao?trk=profile-badge">Cheng Hao Zhang</a></div>
+              
 <br><br><br><br><br>
 <div align="center">
     <img width=30% src="ChengHao.png">
