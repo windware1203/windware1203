@@ -32,7 +32,7 @@
 <div align="center">
     <img src="s.png" alt=""><img src="k.png" alt=""><img src="i.png" alt=""><img src="l.png" alt=""><img src="l.png" alt="">
     <br><br><br>
-    <table style="magin:20px;">
+    <table class="linker">
         <td><img src="c.png" alt=""></td>
         <td><img src="c-.png" alt=""></td>
         <td><img src="java.png" alt=""></td>
