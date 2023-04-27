@@ -22,7 +22,7 @@
 ---
 <div align="center">
     <img src="s.png" alt=""><img src="k.png" alt=""><img src="i.png" alt=""><img src="l.png" alt=""><img src="l.png" alt="">
-    <table>
+    <table style="magin:5px;">
         <td><img src="c.png" alt=""></td>
         <td><img src="c-.png" alt=""></td>
         <td><img src="java.png" alt=""></td>
