@@ -1,3 +1,11 @@
+<style>
+    .linker{
+        margin-left: auto;
+        margin-right: auto;
+        padding-bottom: 10%;
+    }
+</style>
+    
 # Hi! This is 武田奈々 (Takeda Nana)
 
 
@@ -23,6 +31,7 @@
 
 <div align="center">
     <img src="s.png" alt=""><img src="k.png" alt=""><img src="i.png" alt=""><img src="l.png" alt=""><img src="l.png" alt="">
+    <br><br><br>
     <table style="magin:20px;">
         <td><img src="c.png" alt=""></td>
         <td><img src="c-.png" alt=""></td>
