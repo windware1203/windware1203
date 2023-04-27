@@ -12,7 +12,7 @@
 
 ## Links
 <a href=https://www.youtube.com/c/tw-takedanana><img src="youtube.png" width="60" height="60"></a>
-<<a href="https://www.linkedin.com/in/takedahao/"><img src="linkedin.png" width="60" ></a>
+<a href="https://www.linkedin.com/in/takedahao/"><img src="linkedin.png" width="60" ></a>
 
 ## Community
 - [SITCOM](https://sitcon.org/2022/)
