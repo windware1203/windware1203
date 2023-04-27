@@ -46,4 +46,7 @@
         margin-right: auto;
         padding-bottom: 10%;
     }
+    td{
+        padding: 30px;
+    }
 </style>
