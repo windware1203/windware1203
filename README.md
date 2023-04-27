@@ -40,13 +40,4 @@
     <img width=30% src="ChengHao.png">
 </div>
 
-<style>
-    .linker{
-        margin-left: auto;
-        margin-right: auto;
-        padding-bottom: 10%;
-    }
-    td{
-        padding: 30px;
-    }
-</style>
+
