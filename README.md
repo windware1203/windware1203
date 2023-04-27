@@ -29,6 +29,8 @@
         <td><img src="c-.png" alt=""></td>
         <td><img src="java.png" alt=""></td>
         <td><img src="python.png" alt=""></td>
+        <td><img src="linux.png" alt=""></td>
+        <td><img src="windows.png" alt=""></td>
     </table>
 </div>
 
