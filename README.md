@@ -1,11 +1,3 @@
-<style>
-    .linker{
-        margin-left: auto;
-        margin-right: auto;
-        padding-bottom: 10%;
-    }
-</style>
-    
 # Hi! This is 武田奈々 (Takeda Nana)
 
 
@@ -47,3 +39,11 @@
 <div align="center">
     <img width=30% src="ChengHao.png">
 </div>
+
+<style>
+    .linker{
+        margin-left: auto;
+        margin-right: auto;
+        padding-bottom: 10%;
+    }
+</style>
