@@ -22,16 +22,12 @@
 ---
 <div align="center">
     <img src="s.png" alt=""><img src="k.png" alt=""><img src="i.png" alt=""><img src="l.png" alt=""><img src="l.png" alt="">
-    
     <table>
-        <tr>
-            <td><a target="_blank" href=https://www.youtube.com/c/tw-takedanana><img src="../img/youtube.png" width="60" height="60"></a></td>
-            <td><a target="_blank" href="https://github.com/windware1203"><img src="../img/github.png" width="50" height="50"></a></td>
-            <td><a target="_blank" href="resume.html"><img src="resume.png" width="50" height="50"></a></td>
-            <td><a target="_blank" href="https://www.linkedin.com/in/takedahao/"><img src="../img/linkedin.png" width="50" height="50"></a></td>
-        </tr>
+        <td><img src="c.png" alt=""></td>
+        <td><img src="c-.png" alt=""></td>
+        <td><img src="java.png" alt=""></td>
+        <td><img src="python.png" alt=""></td>
     </table>
-    
 </div>
 
 
