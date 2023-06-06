@@ -31,6 +31,7 @@
         <td><img src="python.png" alt=""></td>
         <td><img src="linux.png" alt=""></td>
         <td><img src="windows.png" alt=""></td>
+        <td><img src="bash.png" alt=""></td>
     </table>
 </div>
 
