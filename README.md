@@ -3,10 +3,6 @@
 
 ## About Me
 - Name: Cheng-Hao,Zhang
-
-<h3> About Me</h3>
-
-- Name: Cheng-Hao,Zhang
 - Major: Computer Science, Information Security, System Software
 - A Student Forever
 
