@@ -4,6 +4,7 @@
 ## About Me
 - Name: Cheng-Hao,Zhang
 - Major: Computer Science, Information Security, System Software
+- Minor: Law, Criminal Code
 - A Student Forever
 
 ## Links
